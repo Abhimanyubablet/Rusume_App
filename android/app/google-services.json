@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104212408664",
+    "project_id": "flutterrusumeapp",
+    "storage_bucket": "flutterrusumeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104212408664:android:2973579ec661269c691d2d",
+        "android_client_info": {
+          "package_name": "com.example.rusume_builder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCovJCzu4sp_-aFtvAK62tAaAGhwc8umWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
